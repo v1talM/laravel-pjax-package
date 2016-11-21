@@ -1,0 +1,18 @@
+{
+    "name": "phpvital/pjaxer",
+    "description": "pjax package for laravel5",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "authors": [
+        {
+            "name": "v1talM",
+            "email": "373357042@qq.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Vital\\Pjaxer\\": "src/"
+        }
+    }
+}
