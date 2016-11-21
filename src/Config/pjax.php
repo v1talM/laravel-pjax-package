@@ -6,7 +6,16 @@
  */
 
 return [
+    
+    //pjax start trigger
     'trigger' => 'a',
+    
+    
     'container' => 'body',
-    'progress-color' => ''
+    
+    //background of pjax progress bar , default color #0a8
+    'bar-background' => '#0a8',
+    
+    //background of spinner , default color #0a8
+    'spinner-background' => '#0a8'
 ];
