@@ -59,3 +59,7 @@ you can custom background of progress-bar and snipper in `config/pjax.php`.
 # 最后 Last
 
 欢迎star , 欢迎 Issue , 欢迎任何学习交流~~
+
+# License
+
+Laravel-pjax-package is licensed under The MIT License (MIT).
