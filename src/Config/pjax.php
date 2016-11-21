@@ -7,9 +7,8 @@
 
 return [
     
-    //pjax start trigger
+    //pjax start trigger , you can choose any element as jquery selector.
     'trigger' => 'a',
-    
     
     'container' => 'body',
     
