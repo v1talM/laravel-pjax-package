@@ -7,7 +7,7 @@ a pjax package for laravel5, include pjax and nprogress
 # 安装使用详细教程 Installation
 
 
-打开 `app/Kernel.php` 文件, 在 `$middleware` 数组里面添加中间件 `\Vital\Pjaxer\Middlewares\PjaxMiddleware::class`
+打开 `app/Http/Kernel.php` 文件, 在 `$middleware` 数组里面添加中间件 `\Vital\Pjaxer\Middlewares\PjaxMiddleware::class`
 
 
 add `\Vital\Pjaxer\Middlewares\PjaxMiddleware::class` to  `*$middleware` in `app/Http/Kernel.php`
