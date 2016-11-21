@@ -5,6 +5,10 @@ a pjax package for laravel5, include pjax and nprogress
 一个基于 laravel 5 的 pjax 扩展包 , 本项目基于 NProgress [传送门](https://github.com/rstacruz/nprogress) 和 Pjax.
 
 教程地址:[传送门](http://blog.sparki.cn/article/Laravel-Pjax-kuo-zhan-bao-shi-yong-jie-shao)
+# 通过 composer 下载
+
+`composer require phpvital/pjaxer`
+
 
 # 安装使用详细教程 Installation
 
