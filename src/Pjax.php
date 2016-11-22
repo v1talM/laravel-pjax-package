@@ -27,14 +27,14 @@ class Pjax
         $script = "
         <style>
             #nprogress .bar{
-                background: $bar_background;
+                background: $bar_background !important;
             }
             #nprogress .spinner-icon{
-                border-top-color: $spinner_background;
-                border-left-color: $spinner_background;
+                border-top-color: $spinner_background !important;
+                border-left-color: $spinner_background !important;
             }
             #nprogress .peg{
-                box-shadow: 0 0 10px $bar_background,0 0 5px $bar_background;
+                box-shadow: 0 0 10px $bar_background,0 0 5px $bar_background !important;
             }
         </style>
         <script>
